@@ -1,2 +1,2 @@
 # CS215-Assignments
-Data Analysis and Interpretation
+This repository contains the assignments, I had solved for the course CS215, IIT Bombay. They are majorly based on Statistics and Data Analysis.
